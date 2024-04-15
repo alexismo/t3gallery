@@ -27,3 +27,19 @@ You can check out the [create-t3-app GitHub repository](https://github.com/t3-os
 ## How do I deploy this?
 
 Follow our deployment guides for [Vercel](https://create.t3.gg/en/deployment/vercel), [Netlify](https://create.t3.gg/en/deployment/netlify) and [Docker](https://create.t3.gg/en/deployment/docker) for more information.
+
+# T3 Gallery
+
+## TODO
+
+- [ ] Make it deploy (vercel)
+- [ ] Scaffold basic UI with mock data
+- [ ] Actually set up a database (Vercel postgres)
+- [ ] Attach DB to UI
+- [ ] Add auth (w/ clerk)
+- [ ] Add image upload
+- [ ] Error mgmt (w/ Sentry)
+- [ ] Routing/image page (parallel route)
+- [ ] Delete button w/ server actions
+- [ ] Analytics (posthog)
+- [ ] Rate limiting (upstash)
