@@ -36,7 +36,7 @@ Follow our deployment guides for [Vercel](https://create.t3.gg/en/deployment/ver
 - [x] Scaffold basic UI with mock data
 - [x] Tidy up build process
 - [x] Actually set up a database (Vercel postgres)
-- [ ] Attach DB to UI
+- [x] Attach DB to UI
 - [ ] Add auth (w/ clerk)
 - [ ] Add image upload
 - [ ] Error mgmt (w/ Sentry)
