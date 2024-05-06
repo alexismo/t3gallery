@@ -38,6 +38,7 @@ Follow our deployment guides for [Vercel](https://create.t3.gg/en/deployment/ver
 - [x] Actually set up a database (Vercel postgres)
 - [x] Attach DB to UI
 - [x] Add auth (w/ clerk)
+- [ ] "taint" (server-only)
 - [ ] Add image upload
 - [ ] Error mgmt (w/ Sentry)
 - [ ] Routing/image page (parallel route)
